@@ -1,0 +1,12 @@
+{
+  "name": "skinmatch-project",
+  "version": "1.0.0",
+  "description": "Ідея мого проекту, який має назву SkinMatch – створення веб-додатку, де є можливість дізнатись свій тип шкіри, а найголовніше – підібрати для себе найкращий догляд.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
